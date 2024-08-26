@@ -15,7 +15,7 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Shao Mun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate Software Engineer student in Malaysia. My journey in web development has been both challenging and rewarding, and I’m excited to continue expanding my expertise, especially in the web3 space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaomun&label=Profile%20views&color=0e75b6&style=flat" alt="shaomun" /> </p>
 
