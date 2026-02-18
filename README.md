@@ -1,25 +1,18 @@
-<div align="center">
+<!-- Profile Header -->
+<h1 align="center">Hey there, I'm <a href="#">Shao Mun</a> 👋</h1>
+<h3 align="center">💻 Computer Science Student | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=%F0%9F%91%BE+Hi,+I'm+Shao+Mun;%F0%9F%9A%80+Software+Engineering+Student;%F0%9F%8C%90+Web3+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer" alt="Typing SVG" />
-  </a>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F78D&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💼;Blockchain+Developer+⛓️;AI/ML+Engineer+🤖;Hackathon+Enthusiast+🏆" alt="Typing animation" />
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/QNFhOtO4SE0j4/giphy.gif" width="40" /> About Me
+## 👋 About Me
 
 I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passionate about building at the intersection of **Full-Stack Development**, **Blockchain**, and **AI**. I love exploring how these technologies converge to create innovative solutions that push the boundaries of what's possible.
 
 <div align="center">
-
-💼 **Full-Stack** • 🔗 **Blockchain** • 🤖 **AI**
-
----
-
-### 🎯 Current & Previous Experience
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=550&lines=%E2%96%B6+Current%3A+President+%40+TARUMT+Blockchain+Club;%E2%97%80+Previous%3A+Planet+Hares+%E2%80%A2+Rumble+Fury" alt="Typing SVG" />
 
@@ -27,7 +20,32 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
 
 ---
 
-## <img src="https://media.giphy.com/media/L1R1TVIw8mML3grI8P/giphy.gif" width="40" /> Tech Stack
+## 🏆 Hackathon Achievements
+
+<div align="center">
+
+| Hackathon | Achievement | Project |
+|-----------|-------------|---------|
+| **Deriv AI Hackathon 2026** | 🥈 2nd Place | [Project](#) |
+| **ETHGlobal HackMoney 2026** | 🏅 ENS (Pool) | [Project](#) |
+| **ETHChiangmai** | 🥇 1st Place + 🥇 Student Prize | [Project](#) |
+| **IOTA Moveathon (EU)** | 🏅 Community Prize | [Project](#) |
+| **ETHGlobal Taipei 2025** | 🏅 Polygon Winner + 🥈 HashKey Chain (2nd) + 🏅 Celo (Pool) | [Project](#) |
+| **ETHGlobal Bangkok 2024** | 🏅 CDP (Pool) + 🏅 Blockscout (Pool) + 🏅 Coinbase (Pool) | [Project](#) |
+| **Monash Hackfest 2024** | 🎯 9th Place | [Project](#) |
+| **APUBCC Buildstation 2024** | 🥈 2nd Place | [Project](#) |
+| **APUBCC DevMatch 2024** | 🥇 Aptos Champion | [Project](#) |
+| **Bridg3 Hackathon 2024** | 🥉 Sui (3rd) | [Project](#) |
+| **Hackinsan 2024** | 🥇 Champion | [Project](#) |
+| **TARUMT International 2024** | 🎯 Top 8 | [Project](#) |
+
+**🏆 Total: 12+ Hackathon Competitions • Multiple Wins & Podium Finishes**
+
+</div>
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -83,44 +101,24 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
 
 ---
 
-## <img src="https://media.giphy.com/media/iYqdL8HvE0ALMRbvys/giphy.gif" width="40" /> Hackathon Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
-
-| Hackathon | Achievement | Project |
-|-----------|-------------|---------|
-| **Deriv AI Hackathon 2026** | 🥈 2nd Place | [Project](#) |
-| **ETHGlobal HackMoney 2026** | 🏅 ENS (Pool) | [Project](#) |
-| **ETHChiangmai** | 🥇 1st Place + 🥇 Student Prize | [Project](#) |
-| **IOTA Moveathon (EU)** | 🏅 Community Prize | [Project](#) |
-| **ETHGlobal Taipei 2025** | 🏅 Polygon Winner + 🥈 HashKey Chain (2nd) + 🏅 Celo (Pool) | [Project](#) |
-| **ETHGlobal Bangkok 2024** | 🏅 CDP (Pool) + 🏅 Blockscout (Pool) + 🏅 Coinbase (Pool) | [Project](#) |
-| **Monash Hackfest 2024** | 🎯 9th Place | [Project](#) |
-| **APUBCC Buildstation 2024** | 🥈 2nd Place | [Project](#) |
-| **APUBCC DevMatch 2024** | 🥇 Aptos Champion | [Project](#) |
-| **Bridg3 Hackathon 2024** | 🥉 Sui (3rd) | [Project](#) |
-| **Hackinsan 2024** | 🥇 Champion | [Project](#) |
-| **TARUMT International 2024** | 🎯 Top 8 | [Project](#) |
-
+  <table>
+    <tr>
+      <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/ShaoMun?theme=tokyonight" alt="Stats Card"/></td>
+      <td><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaoMun&theme=transparent" alt="Repos per Language"/></td>
+    </tr>
+  </table>
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhjBirojTb/giphy.gif" width="40" /> GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaomun&theme=neon&show_icons=true&icon_color=00FF94&text_color=ffffff&bg_color=000000&border_color=00FF94&border_radius=10&hide_border=false" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaomun&layout=compact&theme=neon&icon_color=00FF94&text_color=ffffff&bg_color=000000&border_color=00FF94&border_radius=10&hide_border=false" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
 <div align="center">
-
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/shaomun/shaomun/output/snake.svg" alt="Snake Animation" />
 
   <!-- Footer -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF94&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+Let's+connect+%E2%9C%A8" alt="Footer" />
