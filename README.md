@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passionate about building at the intersection of **Full-Stack Development**, **Blockchain**, and **AI**. I love exploring how these technologies converge to create innovative solutions that push the boundaries of what's possible.
+I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passionate about building at the intersection of **Full-Stack Development**, **Blockchain** and **AI**. I love exploring how these technologies converge to create innovative solutions that push the boundaries of what's possible.
 
 <div align="center">
 
@@ -38,8 +38,6 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
 | **Bridg3 Hackathon 2024** | 🥉 Sui (3rd) | [Project](#) |
 | **Hackinsan 2024** | 🥇 Champion | [Project](#) |
 | **TARUMT International 2024** | 🎯 Top 8 | [Project](#) |
-
-**🏆 Total: 12+ Hackathon Competitions • Multiple Wins & Podium Finishes**
 
 </div>
 
@@ -129,7 +127,7 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
 
 <div align="center">
 
-**💬 Let's Chat!**
+**💬 Let's Connect!**
 
 > 
 </div>
