@@ -26,6 +26,7 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
 
 | Hackathon | Achievement | Project |
 |-----------|-------------|---------|
+| **NottHacks 2026** | 🥇 DCAI(Champion) | [Project](#) |
 | **Deriv AI Hackathon 2026** | 🥈 2nd Place | [Project](#) |
 | **ETHGlobal HackMoney 2026** | 🏅 ENS (Pool) | [Project](#) |
 | **ETHChiangmai** | 🥇 1st Place + 🥇 Student Prize | [Project](#) |
