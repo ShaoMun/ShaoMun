@@ -112,9 +112,13 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
   </table>
 </div>
 
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShaoMun/ShaoMun/output/github-contribution-grid-snake.svg">
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaoMun/ShaoMun/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaoMun/ShaoMun/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ShaoMun/ShaoMun/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
