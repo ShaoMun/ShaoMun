@@ -26,6 +26,7 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
 
 | Hackathon | Achievement | Project |
 |-----------|-------------|---------|
+| **TNG Digital Finhack 2026** | 🏅 4th Place | [Project](#) |
 | **NottHacks 2026** | 🥇 DCAI(Champion) | [Project](#) |
 | **Deriv AI Hackathon 2026** | 🥈 2nd Place | [Project](#) |
 | **ETHGlobal HackMoney 2026** | 🏅 ENS (Pool) | [Project](#) |
@@ -112,7 +113,7 @@ I'm a **Final Year Software Engineering Student** from Malaysia 🇲🇾, passio
 </div>
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShaoMun/ShaoMun/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
